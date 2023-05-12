@@ -23,3 +23,12 @@ Make sure the clock is not exposed to extreme temperatures. Make sure the clock 
 
 ![image](https://github.com/vkmo/DWC-382/assets/132737419/4d274848-9cac-4168-9a5c-db3f6abf8e4e)
 Turn on the Digital clock by pressing the start button located on its rear. The "adjust" button lets you set the time according to your region. An inbuilt sensor displays the room's temperature automatically.
+
+***Warranty***
+
+![image](https://github.com/vkmo/DWC-382/assets/132737419/5f1e2885-8341-4b24-b69f-917076f1c68e)
+A one-year service warranty is provided for the digital clock.
+Note: No warranty is provided for the accessories or parts of the digital clock. 
+
+![image](https://github.com/vkmo/DWC-382/assets/132737419/7085ab41-4c81-4970-bcf8-15effa5bf188)
+Contact: Global clocks, Datus Industrial region, Maniram Nagar, Nirmalasa Distt., G Pradesh. Phone Number: 3397901839
